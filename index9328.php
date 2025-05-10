@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]>
+<html dir="rtl" lang="ar" class="ie8"><![endif]-->
+<!--[if IE 9 ]>
+<html dir="rtl" lang="ar" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html dir="rtl" lang="ar">
+<!--<![endif]-->
+<!-- Mirrored from www.afaqalsyola.com.sa//index.php?route=common/home by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 31 Aug 2023 17:43:40 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>آفاق السيولة للوساطة</title>
+    <base />
+        <meta name="description" content="آفاق السيولة للوساطة"/>
+            <meta name="keywords" content="آفاق السيولة للوساطة"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link href="image/catalog/logoafaq.png" rel="icon"/>
+            <!-- <link href="index.html" rel="canonical"/> -->
+        <script src="catalog/view/theme/default/js/jquery-1.11.0.min.js"></script>
+    <script src="catalog/view/theme/default/js/bootstrap.min.js"></script>
+    <link href="catalog/view/theme/default/font-awesome/css/all.css" rel="stylesheet">
+    <!--<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,400i,300,700" rel="stylesheet" type="text/css"/> -->
+
+    
+    <!-- My Files -->
+    <link rel="stylesheet" href="catalog/view/theme/default/css/bootstrap.css">
+    <link rel="stylesheet" href="catalog/view/theme/default/css/style.css">
+    <link rel="stylesheet" href="catalog/view/theme/default/css/animate.css">
+    <link rel="stylesheet" href="catalog/view/theme/default/css/responsive.css">
+    <link rel="stylesheet" href="catalog/view/theme/default/css/owl.carousel.css">
+
+            <link href="catalog/view/javascript/jquery/flexslider/flexslider.css" type="text/css" rel="stylesheet"
+          media="screen"/>
+    
+    <script src="catalog/view/javascript/common.js" type="text/javascript"></script>
+    <script src="catalog/view/theme/default/js/wow.min.js"></script>
+    <script>new WOW().init();</script>
+    <script src="catalog/view/theme/default/js/owl.carousel.min.js"></script>
+
+
+        <script src="catalog/view/javascript/jquery/flexslider/jquery.flexslider-min.js" type="text/javascript"></script>
+        
+
+</head>
+<body class="common-home">
+<?php
+    session_start();
+    $countname = $_SESSION['countname'];
+    echo "welcome ".$countname." ";
+    ?>
+    
+
+<!--========================================================================-->
+<div class="the-after"></div>
+<!--========================================================================-->
+
+ <!--<div class="message wow animated fadeInDown data-wow-duration="1s">
+<a href="index50d0.html?route=information/information&amp;information_id=28">
+  <p> 
+    عزيزي العميل ومقدم الخدمه
+لوحظ في الفتره الاخيره استغلال تعميدات وتغيير مسميات معامله لتعميد لقحات الصحه نخلي مسؤوليتنا الكامله وفي حال اتضح لدينا سنرفع للجهات المختصه بكامل المعلومات لا اتخاذ الإجراءات القانونيةوجل بلاي
+    </p> 
+    </a>
+    <span><i class="fas fa-times-circle"></i></span>
+
+</div>-->
+
+
+
+
+<div class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9 col-sm-6 col-xs-9">
+                <div class="logo">
+                    <a href="index9328.php?route=common/home">
+                        <img src="image/catalog/logoafaq.png" alt="آفاق السيولة للوساطة" data-toggle="tooltip" data-placement="bottom" title="آفاق السيولة للوساطة">
+                    </a>
+                </div>
+            </div><!--col-md-9-->
+
+            <div class="col-md-3 col-sm-6 col-xs-3">
+                <a href="tel:009660558241997">
+                <div class="info-call">
+                    <div class="col-sm-8 col-xs-6">
+                        <h3> 009660558241997 </h3>
+                    </div><!--col-sm-8-->
+
+                    <div class="col-sm-4 col-xs-6">
+                        <i class="fas fa-phone-volume"></i>
+                    </div><!--col-sm-8-->
+                </div><!--info-call-->
+                </a>
+                <div class="hidden-xx">
+                    <i class="fas fa-bars" onclick="mySidenav()"></i>
+                </div>
+            </div><!--col-md-3-->
+        </div>
+    </div>
+</div>
+<!--==============================================================================-->
+<div id="mySidenav" class="sidenav">
+    <div class="col-xs-12">
+        <a href="javascript:void(0)" class="closebtn"  onclick="closeNav()"><i class="fa fa-times-circle" aria-hidden="true"></i></a>
+    </div>
+
+
+    <div class="col-sm-12 col-xs-12">
+        <div class="big-menu-nav">
+            <a href="index9328.php?route=common/home">
+                <img src="image/catalog/logoafaq.png" alt="آفاق السيولة للوساطة" data-placement="top" title="آفاق السيولة للوساطة">
+            </a>
+            <ul class="menu-nav">
+                <li><a href="index9328.php?route=common/home"> <i class="fas fa-angle-left"></i> الرئيسية </a> </li>
+
+
+                <li><a href="indexc38e.html?route=information/faq"> <i class="fas fa-angle-left"></i>  كيف استخدم الموقع ؟ </a> </li>
+
+                <li><a href="index3aa6.html?route=information/information&amp;information_id=2"> <i class="fas fa-angle-left"></i>  شروط الخدمة  </a> </li>
+
+                <li><a href="baptizing.php"> <i class="fas fa-angle-left"></i> طلب تعميد</a> </li>
+
+                <li><a href="indexc38e.html?route=information/contact"> <i class="fas fa-angle-left"></i>   للمراسلة أو الإستفسارات    </a> </li>
+
+            </ul>
+        </div><!--big-menu-->
+    </div><!--col-sm-12-->
+</div><!--sidenav-->
+<!--==============================================================================-->
+<div class="main-menu">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-xs-12">
+                <ul class="all-menu">
+                    <li><a href="index9328.php?route=common/home"> الرئيسية </a></li>
+
+                
+
+                    <li><a href="indexc38e.html?route=information/faq">  كيف استخدم الموقع ؟ </a> </li>
+
+                    <li><a href="index3aa6.html?route=information/information&amp;information_id=2"> شروط الخدمة </a></li>
+
+                    <li><a href="baptizing.php?route=information/information&amp;information_id=2"> طلب تعميـــد </a></li>
+
+                    <li><a href="sendmessage.php?route=information/contact">  للمراسلة أو الإستفسارات  </a></li>
+
+                </ul>
+                
+            </div><!--col-md-12-->
+        </div>
+    </div>
+</div>
+<!--=========================================================================-->
+<div class="main-slider">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 col-xs-12">
+                <div class="the-slider">
+
+                                        <div class="item">
+                        <img src="image/cache/catalog/Categproes/2-1000x490.png" alt="اعلان">
+                    </div><!--item-->
+                                        <div class="item">
+                        <img src="image/cache/catalog/Categproes/4-1000x490.png" alt="اعلان">
+                    </div><!--item-->
+                                    </div><!--the-slider-->
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $('.the-slider').owlCarousel({
+        loop: true,
+        margin: 10,
+        nav: true,
+        rtl: true,
+        autoplay: true,
+        pagination: true,
+        autoplayTimeout: 6000,
+        smartSpeed: 5000,
+        dragEndSpeed: 5000,
+        animate: true,
+        animateOut: 'fadeOutUp',
+        animateIn: 'fadeIn',
+        navText: [
+            "<i class='fa fa-chevron-right'></i> ",
+            "<i class='fa fa-chevron-left'></i>"
+        ],
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 1
+            },
+            1000: {
+                items: 1
+            }
+        }
+    });
+</script><!--=========================================================================-->
+<div class="person">
+    <div class="container">
+        <div class="row">
+
+
+			
+			
+			  
+			
+			            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="person-one">
+                    <h4> دعم فني الموقع </h4>
+                <p> للتواصل و الاتصال لدعم موقع افاق للوساطه الرقم لا يحمل وتس اب اتصال فقط</p>
+           <a href="tel:009660558241997"> <i class="fas fa-phone-volume"></i> </a>
+                </div>
+            </div><!--col-md-4-->
+            
+            
+            
+                        <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="person-one">
+                    <h4> فهد الحاتمي </h4>
+                   <p> للتواصل مع المشرف تيليجرام اضغط علي الايقونه يجب تنزيل تيليجرام</p>
+                    <a href="https://t.me/fahadalhatmy"> <i style="color: #0876b9;" class="fab fa-telegram"></i> </a>
+                </div>
+            </div><!--col-md-4-->
+			
+			
+			  <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="person-one">
+                    <h4> وليد الحاتمي </h4>
+                    <p> للتواصل مع المشرف تيليجرام اضغط علي الايقونه يجب تنزيل تيليجرام</p>
+                    <a href="https://t.me/waledalhatmy"> <i style="color: #0876b9;" class="fab fa-telegram"></i> </a>
+                </div>
+            </div><!--col-md-4-->
+            
+
+        </div>
+    </div>
+</div>
+
+
+<!--=========================================================================-->
+<div class="intro-app">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="content">
+                    <h3>موقع افاق للوساطه - النظام الحديث خدمتك هنا اسرع</h3>
+                    <p>موقع افاق للوساطه اول موقع عربي يجمع بين امكانيات الواتس اب و خدمات الوساطه في موقع واحد مما يجعل التواصل و تقديم الخدمات اسرع و افضل و اول موقع عربي يسمح لك بالتواصل مع المشرف بشكل مباشر</p>
+                </div>
+            </div><!--col-md-6-->
+
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="mob">
+                    <img src="catalog/view/theme/default/images/mob.png" alt="">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!--=========================================================================-->
+
+
+<!--==========================================================================-->
+
+<div class="services">
+    <div class="container">
+        <div class="row">
+            <h3>  خدماتنا  </h3>
+            <hr>
+            
+<div class="col-md-3 col-xs-12">
+    <div class="serv">
+        <img src="image/catalog/icon-1.png" alt="ادارة  خدمات شركات">
+        <h4> ادارة  خدمات شركات </h4>
+        <p>
+            خدمات التعقيب أصبحت أقرب لك مما تتخيل. لا تترد فى التواصل معنا وطلب خدمتك        </p>
+    </div>
+</div><!--col-md-3-->
+
+
+
+<div class="col-md-3 col-xs-12">
+    <div class="serv">
+        <img src="image/catalog/icon-2.png" alt="الاستشارات القانونية">
+        <h4> الاستشارات القانونية </h4>
+        <p>
+            خدمات الوساطة أصبحت أقرب لك مما تتخيل. لا تترد فى التواصل معنا وطلب خدمتك        </p>
+    </div>
+</div><!--col-md-3-->
+
+
+
+<div class="col-md-3 col-xs-12">
+    <div class="serv">
+        <img src="image/catalog/icon-3.png" alt="استشارات الاعمال">
+        <h4> استشارات الاعمال </h4>
+        <p>
+            خدمات الدعم المباشر أصبحت أقرب لك مما تتخيل. لا تترد فى التواصل معنا وطلب خدمتك        </p>
+    </div>
+</div><!--col-md-3-->
+
+
+
+<div class="col-md-3 col-xs-12">
+    <div class="serv">
+        <img src="image/catalog/icon-4.png" alt="خدمات VIP">
+        <h4> خدمات VIP </h4>
+        <p>
+            نقدم خدمات أخرى خاصة بتخليص المستندات والأوراق وغيرها كثير.        </p>
+    </div>
+</div><!--col-md-3-->
+
+
+        </div>
+    </div>
+</div>
+<!--=========================================================================-->
+<div class="testmonials">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-12 col-sm-12">
+                <h3>  آراء عملائنا  </h3>
+                <hr>
+            </div>
+
+            <div class="col-sm-12 col-md-12">
+                <div class="testmonials-slider">
+
+                                        <div class="item">
+                        <div class="test-content">
+                                                                                    <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                    <p> خدمات مميزة جدا من جهة إدارة متميزة </p>
+                            <h4> محمد الشمري </h4>
+                        </div>
+                    </div><!--item-->
+                                        <div class="item">
+                        <div class="test-content">
+                                                                                    <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star"></span>
+                                                                                                                <span class="fa fa-star"></span>
+                                                                                    <p> خدمات ممتازة جدا </p>
+                            <h4> أحمد الأحمدى </h4>
+                        </div>
+                    </div><!--item-->
+
+                    <div class="item">
+                        <div class="test-content">
+                                                                                    <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star"></span>
+                                                                                    <p> ًكويس وخدمات ممتازة جدا </p>
+                            <h4> علي الشرهان </h4>
+                        </div>
+                    </div><!--item-->
+
+                    <div class="item">
+                        <div class="test-content">
+                                                                                    <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star"></span>
+                                                                                    <p>راقي وتعامل ممتاز </p>
+                            <h4> محمد العنيزي </h4>
+                        </div>
+                    </div><!--item-->
+
+                    <div class="item">
+                        <div class="test-content">
+                                                                                    <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star "></span>
+                                                                                                                <span class="fa fa-star"></span>
+                                                                                    <p> حلو ومناسب </p>
+                            <h4> روعة العتيبي </h4>
+                        </div>
+                    </div><!--item-->
+
+                                        <div class="item">
+                        <div class="test-content">
+                                                                                    <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                    <p> أنصح بالتعامل مع آفاق السيولة لخدماتهم المتميزة </p>
+                            <h4> ابراهيم الشمري </h4>
+                        </div>
+                    </div><!--item-->
+                                        <div class="item">
+                        <div class="test-content">
+                                                                                    <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                                                <span class="fa fa-star checked"></span>
+                                                                                    <p> مشاء التعامل و لا اروع </p>
+                            <h4> عبير الضباح </h4>
+                        </div>
+                    </div><!--item-->
+                    
+                </div><!--testmonials-slider-->
+            </div>
+        </div>
+    </div>
+</div>
+<!--=========================================================================-->
+<script type="text/javascript">
+    $('.testmonials-slider').owlCarousel({
+        loop: true,
+        margin: 20,
+        nav:false,
+        rtl: true,
+        autoplay: true,
+        pagination: true,
+        autoplayTimeout: 6000,
+        smartSpeed: 1200,
+        dragEndSpeed: 1500,
+        animate: true,
+        animateOut: 'fadeOutUp',
+        animateIn: 'fadeIn',
+        navText: [
+            "<i class='fa fa-chevron-right'></i> ",
+            "<i class='fa fa-chevron-left'></i>"
+        ],
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 2
+            },
+            1000: {
+                items: 3
+            }
+        }
+    });
+</script>
+<!--=========================================================================-->
+<script type="text/javascript">
+    $("#send_code").on('click', function() {
+        var phone_num = $('.done-code input[type=\'text\']').val();
+
+        if(phone_num != "" && phone_num.length == 12 ){
+            $.ajax({
+                url: 'index.php?route=common/home/send_code',
+                type: 'post',
+                data: 'phone_num=' + phone_num ,
+                dataType: 'json',
+                beforeSend: function() {
+                    $('#send_code').button('جارى ...');
+                },
+                complete: function() {
+                    $('#send_code').button('reset');
+                },
+                success: function(json) {
+                    $('.done h3').html(json);
+                    $("#activation_url").html("<a href='indexf3de.html?route=common/activation'> تفعيل الكود</a>");
+
+                    $('.done').fadeIn(500);
+                        setTimeout(function(){
+                            $('.done').fadeOut(700);
+                        }, 3000);
+
+                    setTimeout(function() {
+                        window.location.href = "indexf3de.html?route=common/activation"
+                    }, 4000);
+
+                },
+                error: function(xhr, ajaxOptions, thrownError) {
+                    alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+                }
+            });
+        }else{
+                $('.done h3').html("من فضلك أضف رقم جوال صحيح!");
+                $('.done').fadeIn(500);
+                setTimeout(function(){
+                    $('.done').fadeOut(700);
+                }, 3000);
+        }
+    });
+</script>
+<!--=========================================================================-->
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-sm-12 col-xs-12">
+                <div class="footer-content">
+                    <a href="index9328.php?route=common/home">
+                        <img src="image/catalog/logoafaq.png" data-toggle="tooltip" title="آفاق السيولة للوساطة" alt="آفاق السيولة للوساطة">
+                    </a>
+
+                    <p>
+                        آفاق السيولة, نفتح سوياً آفاق جديدة من خدمات الوساطة . نعمل على مدار الساعة فى خدمة عملائنا الكرام.                    </p>
+                </div>
+            </div><!--col-md-3-->
+
+            <div class="col-md-2 col-sm-12 col-xs-12">
+                <div class="footer-content">
+                    <ul>
+                        <h4> معلومات </h4>
+                                                <li><a href="index5160.html?route=information/information&amp;information_id=1"> من نحن </a> </li>
+                                                <li><a href="index3aa6.html?route=information/information&amp;information_id=2"> شروط الخدمة </a> </li>
+                                                <li><a href="index8816.html?route=information/information&amp;information_id=4"> معاهدة إستخدام الموقع </a> </li>
+                                                <li><a href="index5938.html?route=information/information&amp;information_id=10"> عمولة الموقع </a> </li>
+                                                <li><a href="indexc7d4.html?route=information/information&amp;information_id=11"> معاهدة اضافة الاعلان </a> </li>
+                                            </ul>
+                </div>
+            </div><!--col-md-3-->
+
+            <div class="col-md-2 col-sm-12 col-xs-12">
+                <div class="footer-content">
+                    <ul>
+                        <h4> حساب شخصى </h4>
+
+                                                <li>
+                            <a href="index5502.php?route=account/register"> حساب جديد</a>
+                        </li>
+
+                        <li>
+                            <a href="indexe223.php?route=account/login"> تسجيل دخول</a>
+                        </li>
+
+                        
+                        <li>
+                            <a href="sendmessage.php?route=information/contact"> للمراسلة أو الإستفسار</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div><!--col-md-3-->
+
+            <div class="col-md-4 col-sm-12 col-xs-12">
+                <div class="footer-content">
+                    <h2> تواصل معنا </h2>
+                    <h6> <i class="fas fa-phone"></i> <a href="tel:009660558241997">009660558241997</a> </h6>
+                    <h6> <i class="fab fa-whatsapp"></i> <a href="https://api.whatsapp.com/send?phone=009660558241997" target="_blank">009660558241997</a> </h6>
+
+                    <div id="newsletter">
+<label for="">اشترك معنا ليصلك كل جديد</label>
+    <input type="text" name="email" id="email" placeholder="البريد الالكتروني">
+    <button id="submitNewsletter" type="button"> اشترك </button>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        //clear inputs
+        $('#email').click(function () {
+            if ($(this).val() == 'email') {
+                $(this).attr('value', '');
+            }
+        });
+
+        //save data
+        $('#submitNewsletter').click(function () {
+            //validate form
+            errors = 0;
+            if ( $('#email').val() == '') {
+                //$('#email').css('border','solid red 1px');
+                mail_error = '<div class="alert alert-danger alert-dismissible fade in"><a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>من فضلك أضف البريد الإليكترونى</div>';
+                $('#newsletter .alert').css("display", "none");
+                $('#newsletter').append(mail_error);
+                errors++;
+            } else {
+                //$('#email').css('border','0px');
+                //$('#newsletter .alert').css("display", "none");
+            }
+
+            var pattern = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+            if ( $('#email').val() != '' && !($('#email').val().match(pattern))) {
+                mail_error_1 = '<div class="alert alert-danger alert-dismissible fade in"><a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>من فضلك البريد الإليكترونى الذى أدخلته غير مناسب !</div>';
+                $('#newsletter .alert').css("display", "none");
+                $('#newsletter').append(mail_error_1);
+                errors++;
+            } else {
+                //$('#newsletter .alert').css("display", "none");
+            }
+
+            /*if ( $('#email').val() == 'email' ) {
+                mail_error_2 = '<div class="alert alert-danger alert-dismissible fade in"><a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>من فضلك هذا البريد مسجل لدينا من قبل !</div>';
+                $('#newsletter .alert').css("display", "none");
+                $('#newsletter').append(mail_error_2);
+                errors++;
+            } else {
+                //$('#newsletter .alert').css("display", "none");
+            }*/
+
+            //submit data
+            if (errors == 0) {
+                $.ajax({
+                    url: 'https://www.afaqalsyola.com.sa///index.php?route=module/rfnewsletter/save',
+                    type: 'POST',
+                    data: {
+                        /*name: $('#name').val(),*/
+                        email: $('#email').val()
+                    },
+                    success: function (retorno) {
+                        //show sucess message
+                        //$('#newsletter').html('تم بنجاح');
+                        //mail_success = '<div class="alert alert-success alert-dismissible fade in"><a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>تم الإشتراك فى النشرة البريدية بنجاح !</div>';
+                        $('#newsletter .alert').css("display", "none");
+                        //$('#newsletter').append(mail_success);
+                        $('#newsletter').append(retorno);
+                    }
+                });
+            }
+        });
+    });
+</script>
+                </div>
+            </div><!--col-md-3-->
+  
+  
+      <div class="col-md-12 col-xs-12" style="color: #fff;
+    text-align: center;">
+<p>الرقم الضريبي : 310144121300003</p>
+<p>رقم السجل التجاري : 4030395830</p>
+            </div>
+  
+  
+            <div class="col-md-12 col-xs-12">
+                <p class="copyright">© جميع الحقوق محفوظة - آفاق السيولة للوساطة - 2020</p>
+            </div>
+                   <div class="col-md-12 col-xs-12">
+                    <a href="#"><p class="by">Design By we</p></a>
+            </div>
+
+        </div>
+    </div>
+</div>
+<script src="catalog/view/theme/default/js/script.js"></script>
+
+</body>
+
+<!-- Mirrored from www.afaqalsyola.com.sa//index.php?route=common/home by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 31 Aug 2023 17:43:41 GMT -->
+</html>
