@@ -1,0 +1,252 @@
+@media only screen and (max-width:1200px) {
+        .footer
+    {
+       
+            margin-bottom: 67px;
+    }
+.fast-code .done-code {
+    width: 100%;
+
+}
+    .message {
+        top: 108px;
+        width: 95%;
+    }
+
+
+    .header .info-call i
+    {
+        float: left;
+    }
+    .header .info-call .col-sm-4
+    {
+        padding: 0px 20px;
+    }
+}
+
+    @media only screen and (max-width:990px) {
+        .message {
+            top: 108px;
+            width: 95%;
+        }
+
+
+        .header .info-call .col-sm-4
+        {
+            padding: 0px;
+        }
+        .header .info-call i
+        {
+            float: right;
+        }
+        .main-menu .all-menu li
+        {
+            margin-left: 3px;
+        }
+        .person .person-one
+        {
+            float: none!important;
+        }
+        .main-slider .the-slider .slider-content
+        {
+            margin-top: 5%;
+        }
+        .login .login-page form span
+        {
+            right: 28%;
+        }
+        .code .done-code form
+        {
+            width: 100%;
+        }
+        .intro-app .content
+        {
+            padding-top: 0px;
+            margin-bottom: 50px;
+        }
+        .intro-app .content h3
+        {
+            width: 100%;
+            font-size: 18px;
+        }
+
+
+
+}
+
+@media only screen and (max-width:767px) {
+    .message {
+        top: 108px;
+        width: 95%;
+    }
+
+
+    .header .info-call
+    {
+        display: none;
+    }
+    .header .logo img
+    {
+        display: block;
+        float: right;
+    }
+    .main-menu
+    {
+        display: none;
+    }
+    .header .hidden-xx
+    {
+        float: left;
+        font-size: 22px;
+        margin-top: 10px;
+        color: #8bc444;
+        cursor: pointer;
+    }
+    .main-slider
+    {
+        height: 420px;
+    }
+    .hidden-xx
+    {
+        display: block;
+    }
+
+    .main-slider .the-slider .owl-nav {
+        position: relative;
+        margin: 0 auto;
+        width: 60%;
+        font-size: 40px;
+        right: 0px;
+        margin-top: 35px;
+        left: 0px;
+        top: -110px;
+    }
+    .main-slider .the-slider .slider-content
+    {
+        width: 100%;
+    }
+    .person .person-one p
+    {
+        font-size: 12px;
+    }
+    .person .person-one
+    {
+        margin-bottom: 55px;
+        width: 100%;
+    }
+    .order-request form .banks li
+    {
+        width:100%;
+    }
+    .footer
+    {
+        text-align: center;
+            margin-bottom: 67px;
+    }
+    .login .login-page form
+    {
+        width: 100%;
+    }
+    .login .login-page form span
+    {
+        right: 44px;
+    }
+    .login .login-page form .eye
+    {
+        left: 45px;
+    }
+    .sponsor .sponsor-content h3
+    {
+        width: 100%;
+        font-size: 16px;
+    }
+    .sponsor .sponsor-content img
+    {
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .road p
+    {
+        font-size: 12px;
+    }
+    .fast-code form
+    {
+        width: 100%;
+    }
+    .done h3
+    {
+        font-size: 12px;
+    }
+    .main-slider .the-slider img
+    {
+        height: 350px;
+    }
+    .intro-app .content
+    {
+        padding-top: 0px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .intro-app .content h3
+    {
+        width: 100%;
+        font-size: 18px;
+    }
+    .intro-app .mob img
+    {
+        width: 80%;
+    }
+    .how-used .main
+    {
+        width: 100%;
+    }
+    .how-used iframe
+    {
+        width: 100%;
+    }
+    .how-used .the-questions .accordion
+    {
+        font-size: 12px;
+    }
+    .how-used .col-xs-12
+    {
+        padding: 0px;
+    }
+    .how-used .the-questions
+    {
+        padding: 10px;
+    }
+
+}
+
+
+@media only screen and (max-width:330px) {
+    .message {
+        top: 100px;
+        width: 95%;
+    }
+
+
+    .header .logo img
+    {
+        margin-top: 5px;
+    }
+    .order-request form .privacy label {
+        font-size: 12px;
+        text-align: center;
+        line-height: 10px;
+        margin-bottom: 14px;
+    }
+    .order-request form .privacy input
+    {
+        width: 30px;
+        display: block;
+        margin: 0 auto;
+    }
+
+
+
+}
